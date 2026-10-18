@@ -3,12 +3,12 @@
   <channel>
     <title>Front Row for Mac</title>
     <item>
-      <title>Version 1.8.5</title>
-      <pubDate>Sun, 18 Oct 2026 14:32:05 +0000</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>1.8.5</sparkle:shortVersionString>
+      <title>Version 1.8.6</title>
+      <pubDate>Sun, 18 Oct 2026 15:26:07 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.8.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/sparkserian/frontrow-releases/releases/download/mac-v1.8.5/Front-Row-1.8.5-mac.zip" type="application/octet-stream" sparkle:edSignature="McvVu0Kw7ierx0EqBzv2roJR9Kj7y82VlZtPtrTQwJlECcnWqS9251vYs4p7WpMHCjcTZQ4KPIxEy2m6GyQGBw==" length="45264741" />
+      <enclosure url="https://github.com/sparkserian/frontrow-releases/releases/download/mac-v1.8.6/Front-Row-1.8.6-mac.zip" type="application/octet-stream" sparkle:edSignature="rWtwfdIJoFRw388QUI3mhnY54TCyj7DLl2bbQbsySGQV/NAJbbsZA2S1Ml+tqfuKRLBShuEJGPNo9rApgcWaAA==" length="45708158" />
     </item>
   </channel>
 </rss>
